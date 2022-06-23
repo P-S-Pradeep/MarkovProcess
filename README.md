@@ -1,8 +1,5 @@
-
-# EXP. NO: 05
-
-# DATE: 
-
+### EXP NO: 03
+### DATE:
 
 # <p align = "center"> Markov Process </p>
 
